@@ -1,0 +1,1 @@
+Implementation of core NLP preprocessing techniques such as stopword removal, punctuation handling, stemming, lemmatization, and feature extraction (TF-IDF), and using word2vec library to  check word similarity using Python and Jupyter Notebook.
