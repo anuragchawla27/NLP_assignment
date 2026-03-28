@@ -1,1 +1,2 @@
 Implementation of core NLP preprocessing techniques such as stopword removal, punctuation handling, stemming, lemmatization, and feature extraction (TF-IDF), and using word2vec library to  check word similarity using Python and Jupyter Notebook.
+Additionally, this includes cosine similarity computation for text(sentence) comparison, supervised machine learning models (Logistic Regression and KNN) for text classification, and unsupervised learning using clustering techniques to group similar text data.
